@@ -11,7 +11,7 @@ a consequence of their hard work, their platform _earned_ its hegemony.
 Nowadays doing Open Source is infinitely easier thanks to you, GitHub. You've
 provided the tools and the social conventions to make those days a thing of the
 past. Your impact in the Open Source movement is unprecedented.
-
+ir
 We want to express our gratitude for all you've done and do for Open Source.
 
 GitHub, thank you very much.
@@ -80,7 +80,7 @@ Signed,
 - Jim Thompson ([@gonzopancho](https://github.com/gonzopancho)), Head of development for pfSense.org
 - Maximilian Felgenhauer ([@felgenh3](https://github.com/felgenh3)), Full Stack Software Engineer
 - Chris Tate ([@ctate](https://github.com/ctate)), Autocode maintainer
-- Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrop.com
+- Patricio Rojas ([@brujo696](https://github.com/brujo696)), Cofounder at irricrops.com
 - Raphael Amorim ([@raphamorim](http://github.com/raphamorim)), Software Developer
 - Juan Camilo Osorio ([@jcoc611](https://github.com/jcoc611)), Undergrad at the University of Toronto
 - Kailan Blanks ([@kblanks](https://github.com/kblanks)), Developer
